@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-subastas\\microservicio-subastas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E943D19D-F19A-481E-B22A-005A06997D8E}|microservicio-subastas\\microservicio-subastas.csproj|c:\\users\\familia\\desktop\\ds-proyecto\\codigo\\microservicio-subastas\\microservicio-subastas\\microservicio-subastas\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943D19D-F19A-481E-B22A-005A06997D8E}|microservicio-subastas\\microservicio-subastas.csproj|solutionrelative:microservicio-subastas\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 411,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-subastas\\microservicio-subastas\\microservicio-subastas\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "microservicio-subastas\\Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-subastas\\microservicio-subastas\\microservicio-subastas\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "microservicio-subastas\\Controllers\\AuctionController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:02:55.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

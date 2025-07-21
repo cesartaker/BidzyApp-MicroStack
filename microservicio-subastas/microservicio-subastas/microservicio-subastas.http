@@ -1,0 +1,6 @@
+@microservicio_subastas_HostAddress = http://localhost:5074
+
+GET {{microservicio_subastas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

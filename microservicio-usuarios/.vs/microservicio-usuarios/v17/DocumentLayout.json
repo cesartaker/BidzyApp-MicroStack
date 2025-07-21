@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A54B36-00C5-465A-8E78-58BED9A40F2F}|Usuarios.API\\Usuarios.API.csproj|c:\\users\\familia\\desktop\\ds-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\usuarios.api\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A54B36-00C5-465A-8E78-58BED9A40F2F}|Usuarios.API\\Usuarios.API.csproj|solutionrelative:usuarios.api\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67244FB6-8261-4CA3-A22B-5060A55D6071}|Infrastructure\\Infrastructure.csproj|c:\\users\\familia\\desktop\\ds-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\infrastructure\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67244FB6-8261-4CA3-A22B-5060A55D6071}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A54B36-00C5-465A-8E78-58BED9A40F2F}|Usuarios.API\\Usuarios.API.csproj|c:\\users\\familia\\desktop\\ds-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\usuarios.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A54B36-00C5-465A-8E78-58BED9A40F2F}|Usuarios.API\\Usuarios.API.csproj|solutionrelative:usuarios.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControllers.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\Usuarios.API\\Controllers\\UserControllers.cs",
+              "RelativeDocumentMoniker": "Usuarios.API\\Controllers\\UserControllers.cs",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\Usuarios.API\\Controllers\\UserControllers.cs",
+              "RelativeToolTip": "Usuarios.API\\Controllers\\UserControllers.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAcwM8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:55:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\Infrastructure\\.env",
+              "RelativeDocumentMoniker": "Infrastructure\\.env",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\Infrastructure\\.env",
+              "RelativeToolTip": "Infrastructure\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-12T04:16:34.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\Usuarios.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Usuarios.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\DS-proyecto\\codigo\\microservicio-usuarios\\microservicio-usuarios\\Usuarios.API\\appsettings.json",
+              "RelativeToolTip": "Usuarios.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T04:16:20.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

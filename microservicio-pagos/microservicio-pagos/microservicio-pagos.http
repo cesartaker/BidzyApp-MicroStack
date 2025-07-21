@@ -1,0 +1,6 @@
+@microservicio_pagos_HostAddress = http://localhost:5162
+
+GET {{microservicio_pagos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

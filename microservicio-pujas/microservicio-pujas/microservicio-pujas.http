@@ -1,0 +1,6 @@
+@microservicio_pujas_HostAddress = http://localhost:5128
+
+GET {{microservicio_pujas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

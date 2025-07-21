@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+
+    <_PublishTargetUrl>C:\Users\FAMILIA\Desktop\Bidzy-App\Bidzy-api-gateway</_PublishTargetUrl>
+<<<<<<< HEAD
+    <History>True|2025-07-10T20:38:16.8123542Z||;True|2025-07-09T03:23:36.0188951-04:00||;</History>
+=======
+    <History>True|2025-07-09T07:23:36.0188951Z||;</History>
+
+>>>>>>> 378e928a1eb5fd4cb330190b16539f2782290e57
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
